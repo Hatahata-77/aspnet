@@ -6,143 +6,179 @@ WebApplication2
 </name>
 </assembly>
 <members>
-<member name="F:WebApplication2.Register.RegisterUser">
-	<summary>
-RegisterUser コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2.Register.RegisterUserWizardStep">
-	<summary>
-RegisterUserWizardStep コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2.Login.RegisterHyperLink">
-	<summary>
-RegisterHyperLink コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2.Login.LoginUser">
-	<summary>
-LoginUser コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2.ChangePassword.ChangeUserPassword">
-	<summary>
-ChangeUserPassword コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2.Site.HeadContent">
-	<summary>
-HeadContent コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2.Site.MasterPageScriptManager">
-	<summary>
-MasterPageScriptManager コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2.Site.HeadLoginView">
-	<summary>
-HeadLoginView コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2.Site.HeadHomeLink">
-	<summary>
-HeadHomeLink コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2.Site.HeadAboutLink">
-	<summary>
-HeadAboutLink コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2.Site.MainContent">
-	<summary>
-MainContent コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2._Default.btn">
-	<summary>
-btn コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2._Default.lbl">
-	<summary>
-lbl コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="P:WebApplication2.My.MyWebExtension.Application">
-	<summary>
- 現在のアプリケーションについての情報を返します。
- </summary>
-</member><member name="P:WebApplication2.My.MyWebExtension.Computer">
-	<summary>
- ホスト コンピューターに関する情報を返します。
- </summary>
-</member><member name="P:WebApplication2.My.MyWebExtension.User">
-	<summary>
- 現在の Web ユーザーに関する情報を返します。
- </summary>
-</member><member name="P:WebApplication2.My.MyWebExtension.Request">
-	<summary>
- Request オブジェクトを返します。
- </summary>
-</member><member name="P:WebApplication2.My.MyWebExtension.Response">
-	<summary>
- Response オブジェクトを返します。
- </summary>
-</member><member name="P:WebApplication2.My.MyWebExtension.Log">
-	<summary>
- Asp ログ オブジェクトを返します。
- </summary>
-</member><member name="P:WebApplication2.My.MyWebExtension.WebServices">
-	<summary>
- このプロジェクトに追加された WebServices へのアクセスを提供します。
- </summary>
-</member><member name="T:WebApplication2.My.MyWebExtension">
-	<summary>
+<member name="T:WebApplication2.My.MyWebExtension">
+ <summary>
  Web プロジェクトの My Namespace で使用できるプロパティを定義するためのモジュール
  </summary>
-	<remarks></remarks>
+ <remarks></remarks>
+</member>
+<member name="P:WebApplication2.My.MyWebExtension.Application">
+ <summary>
+ 現在のアプリケーションについての情報を返します。
+ </summary>
+</member>
+<member name="P:WebApplication2.My.MyWebExtension.Computer">
+ <summary>
+ ホスト コンピューターに関する情報を返します。
+ </summary>
+</member>
+<member name="P:WebApplication2.My.MyWebExtension.User">
+ <summary>
+ 現在の Web ユーザーに関する情報を返します。
+ </summary>
+</member>
+<member name="P:WebApplication2.My.MyWebExtension.Request">
+ <summary>
+ Request オブジェクトを返します。
+ </summary>
+</member>
+<member name="P:WebApplication2.My.MyWebExtension.Response">
+ <summary>
+ Response オブジェクトを返します。
+ </summary>
+</member>
+<member name="P:WebApplication2.My.MyWebExtension.Log">
+ <summary>
+ Asp ログ オブジェクトを返します。
+ </summary>
+</member>
+<member name="P:WebApplication2.My.MyWebExtension.WebServices">
+ <summary>
+ このプロジェクトに追加された WebServices へのアクセスを提供します。
+ </summary>
+</member>
+<member name="T:WebApplication2.My.Resources.Resources">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:WebApplication2.My.Resources.Resources.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:WebApplication2.My.Resources.Resources.Culture">
+<summary>
+  すべてについて、現在のスレッドの CurrentUICulture プロパティをオーバーライドします
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="F:WebApplication2.ChangePassword._ChangeUserPassword">
+<summary>
+ChangeUserPassword コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:WebApplication2.Login._RegisterHyperLink">
+<summary>
+RegisterHyperLink コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:WebApplication2.Login._LoginUser">
+<summary>
+LoginUser コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:WebApplication2.Register._RegisterUser">
+<summary>
+RegisterUser コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:WebApplication2.Register._RegisterUserWizardStep">
+<summary>
+RegisterUserWizardStep コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:WebApplication2._Default._btn">
+<summary>
+btn コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:WebApplication2._Default._lbl">
+<summary>
+lbl コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:WebApplication2.Site._HeadContent">
+<summary>
+HeadContent コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:WebApplication2.Site._MasterPageScriptManager">
+<summary>
+MasterPageScriptManager コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:WebApplication2.Site._HeadLoginView">
+<summary>
+HeadLoginView コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:WebApplication2.Site._HeadHomeLink">
+<summary>
+HeadHomeLink コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:WebApplication2.Site._HeadAboutLink">
+<summary>
+HeadAboutLink コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:WebApplication2.Site._MainContent">
+<summary>
+MainContent コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
 </member>
 </members>
 </doc>

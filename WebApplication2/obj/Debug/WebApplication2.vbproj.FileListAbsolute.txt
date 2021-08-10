@@ -6,3 +6,14 @@ D:\WhiteBoard\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbproj.G
 D:\WhiteBoard\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
 D:\WhiteBoard\WebApplication2\WebApplication2\obj\Debug\WebApplication2.xml
 D:\WhiteBoard\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Source\DotNet\aspnet\WebApplication2\bin\WebApplication2.dll.config
+C:\Source\DotNet\aspnet\WebApplication2\bin\WebApplication2.dll
+C:\Source\DotNet\aspnet\WebApplication2\bin\WebApplication2.pdb
+C:\Source\DotNet\aspnet\WebApplication2\bin\WebApplication2.xml
+C:\Source\DotNet\aspnet\WebApplication2\obj\Debug\WebApplication2.vbprojAssemblyReference.cache
+C:\Source\DotNet\aspnet\WebApplication2\obj\Debug\WebApplication2.Resources.resources
+C:\Source\DotNet\aspnet\WebApplication2\obj\Debug\WebApplication2.vbproj.GenerateResource.cache
+C:\Source\DotNet\aspnet\WebApplication2\obj\Debug\WebApplication2.vbproj.CoreCompileInputs.cache
+C:\Source\DotNet\aspnet\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Source\DotNet\aspnet\WebApplication2\obj\Debug\WebApplication2.xml
+C:\Source\DotNet\aspnet\WebApplication2\obj\Debug\WebApplication2.pdb
