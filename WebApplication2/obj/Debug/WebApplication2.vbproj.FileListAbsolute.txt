@@ -1,0 +1,8 @@
+D:\WhiteBoard\WebApplication2\WebApplication2\bin\WebApplication2.dll
+D:\WhiteBoard\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+D:\WhiteBoard\WebApplication2\WebApplication2\bin\WebApplication2.xml
+D:\WhiteBoard\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Resources.resources
+D:\WhiteBoard\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbproj.GenerateResource.Cache
+D:\WhiteBoard\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+D:\WhiteBoard\WebApplication2\WebApplication2\obj\Debug\WebApplication2.xml
+D:\WhiteBoard\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
